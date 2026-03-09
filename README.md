@@ -1,6 +1,8 @@
-
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=005571&height=200&section=header&text=Mesya&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile Banner"/>
+
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&weight=500&size=17&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Security+Operations+Analyst;Threat+Hunter;Memory+Forensics+Enthusiast;Master+in+Cyber+Security)](https://git.io/typing-svg)
 
