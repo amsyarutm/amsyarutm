@@ -44,14 +44,7 @@ Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis</code></p
 
 ## `$ cat stats.out`
 
-<div align="center">
-  <a href="https://github.com/amsyarutm">
-    <img src="https://github-readme-stats.vercel.app/api?username=amsyarutm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="150" />
-  </a>
-  <a href="https://github.com/amsyarutm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsyarutm&theme=tokyonight&hide_border=true&layout=compact&langs_count=2&custom_title=Top%20Languages" alt="Top Languages" height="150" />
-  </a>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=amsyarutm&theme=blue-green" alt="GitHub Streak" /></a>
 
 ---
 
